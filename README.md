@@ -15,3 +15,5 @@
 * <font face="Cambria">Editor Mode</font>
 
 <font face="Cambria">Welcome to our editor mode, where you can either create a new game by clicking the “Create Game” button on main page or edit an existing game by choosing an existing game from the spinner in main page and click “Edit Game.” Just use our easy handling and user friendly edit mode to create your own game world!</font>
+
+<div align=center><img width="600" height="400" src="https://github.com/haoli94/Graphical-Android-Game-Design/blob/master/EditorMode.gif"/></div>
