@@ -9,4 +9,4 @@
 
 <font face="Cambria">Welcome to play the game that you just created or the default game. The play mode will load the game information from the sql table (table name equals game name), then it can draw the shapes on our customized canvas, allowing many fancy effects, including the required effects and many extensions. </font>
 
-<div align=center><img width="400" height="300" src="https://github.com/haoli94/Graphical-Android-Game-Design/blob/master/PlayMode.gif"/></div>
+<div align=center><img width="600" height="400" src="https://github.com/haoli94/Graphical-Android-Game-Design/blob/master/PlayMode.gif"/></div>
